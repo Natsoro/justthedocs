@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 <!-- Example of title -->
 The exercises in Markdown<!-- omit in toc -->
 =======================
