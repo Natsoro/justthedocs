@@ -70,16 +70,20 @@ Code example: `__Lets see it in the code.__`
 
 *There are two ways to italic a paragraph:*  
 
-1. Write one star before the text and after it.  
-2. Write one underscore before the text and after it.  
+1. Write one asterisk symbol before the text and after it.  
+2. Write one underscore symbol before the text and after it.  
 
 _Lets see it in the code._  
 
+Code example: `_Lets see it in the code._`
+
 ## How to do strikethrough?
 
-Write two tildes to strikethrough the text.  
+Write two tilde symbols to strikethrough the text.  
 
 ~~Strikethrough~~  
+
+Code example: `~~Strikethrough~~`  
 
 <!-- Example of headers -->
 
