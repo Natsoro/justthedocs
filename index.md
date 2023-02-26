@@ -40,27 +40,29 @@ Table of Contens:
 
 This is a paragraph.  
 
-Press space twice and Enrter once to move a paragraph to the next line.  
+Press space twice and Enter once to move a paragraph to the next line.  
 
 <!-- Example of another paragraph -->
 
 ## It is another example of a paragraph
 
-Below it is another example of a paragraph.  
+There is another example of a paragraph below.  
 
 Example: "Technical Writing jobs involve researching and writing technical content related to a variety of topics, such as engineering, computer software, medical devices, and other specialized technical fields. Technical Writers often work with engineers and scientists to create user manuals, specifications, and documents that clearly and concisely explain complex information. They may also work with marketing and sales teams to create product literature, web content, and other materials that help explain a company’s products and services."  
 
-A pragraph can be long and not broken until the above [method](#how-to-do-a-paragraph) is used.  
+A paragraph can be long and not broken until the above [method](#how-to-do-a-paragraph) is used.  
 
 <!-- Example of bold -->
 
 ## How to bold a paragraph?
 
 **There are two ways to bold a paragraph:**  
-1. Write two stars before the text and after it.  
-2. Write two underscores before the text and after it.  
+1. Write two asterisk symbols before the text and after it.  
+2. Write two underscore symbols before the text and after it.  
 
 __Lets see it in the code.__  
+
+Code example: `__Lets see it in the code.__`
 
 <!-- Example of italic  -->
 
